@@ -98,5 +98,9 @@ namespace ConsoleApp8
             Console.WriteLine(isWin);
             Console.ReadKey();
         }
+        private static void Debug()
+        {
+            Console.WriteLine("Debug");
+        }
     }
 }
